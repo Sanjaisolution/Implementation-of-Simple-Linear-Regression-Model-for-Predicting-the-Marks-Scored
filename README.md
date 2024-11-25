@@ -1,4 +1,4 @@
-![Screenshot 2024-11-25 193124](https://github.com/user-attachments/assets/2f4f92ed-fd5d-40e0-b009-1761a5fd9c30)# Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
+# Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
 
 ## AIM:
 To write a program to predict the marks scored by a student using the simple linear regression model.
@@ -83,6 +83,5 @@ print("RMSE = ",rmse)
 ![Screenshot 2024-11-25 193118](https://github.com/user-attachments/assets/69843917-7ce7-489d-95e4-8d58283b7ea2)
 ![Screenshot 2024-11-25 193124](https://github.com/user-attachments/assets/6652cca8-1df0-43b9-8726-fc3b96dcf598)
 ![Screenshot 2024-11-25 193129](https://github.com/user-attachments/assets/c56d0e99-ee60-4f68-9274-6702c8794a7b)
-
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
