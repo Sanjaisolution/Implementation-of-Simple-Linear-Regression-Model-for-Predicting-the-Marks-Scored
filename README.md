@@ -10,15 +10,23 @@ To write a program to predict the marks scored by a student using the simple lin
 ## Algorithm
 Here's a more concise, two-line explanation for each step:
 
-### Step 1: Import Required Libraries
-### Step 2: Load the Data
-### Step 3: Define Feature Matrix and Target Variable
-### Step 4: Split the Data into Training and Test Sets
-### Step 5: Train the Linear Regression Model
-### Step 6: Make Predictions on Test Data
-### Step 7: Visualize Training Set Results
-### Step 8: Visualize Test Set Results
-### Step 9: Evaluate Model Performance
+Step 1: Import Required Libraries
+
+Step 2: Load the Data
+
+Step 3: Define Feature Matrix and Target Variable
+
+Step 4: Split the Data into Training and Test Sets
+
+Step 5: Train the Linear Regression Model
+
+Step 6: Make Predictions on Test Data
+
+Step 7: Visualize Training Set Results
+
+Step 8: Visualize Test Set Results
+
+Step 9: Evaluate Model Performance
   
 ## Program:
 /*
@@ -61,7 +69,7 @@ plt.ylabel("Scores")
 plt.show()
 
 plt.scatter(X_test,Y_test,color="purple")
-plt.plot(X_test,regressor.predict(X_test),color="blue")
+plt.plot(X_train,regressor.predict(X_train),color="blue")
 plt.title("Hours vs Scores(Training Set)")
 plt.xlabel("Hours")
 plt.ylabel("Scores")
